@@ -26,6 +26,7 @@
   - A panorama to the title screen
 - Changes
   - The default background texture to cobblestone rather than dirt
+  - Makes music play on the title screen
 
 #
 ### **Copyright Reckobot 2025**
