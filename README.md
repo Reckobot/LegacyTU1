@@ -1,6 +1,6 @@
 **PLEASE READ THE INSTALL INSTRUCTIONS**
 
-# LegacyTU1
+# TabbyMC
 **A mod for Minecraft Beta 1.6.6 that tries to replicate version TU1 (the very first version) of Xbox 360 Edition.**
 
 ![In-game screenshot](https://cdn.modrinth.com/data/7tCXfjkz/images/2fe0cfe7da2054de90a1862a701151befe608bda.png)
